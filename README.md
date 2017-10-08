@@ -1,5 +1,5 @@
 # lazypawn
-Just a self made collection of also selfmade include files that helped me through the times of scripting.<br>
+Just a self-made collection of also self-made include files that helped me through the times of scripting.<br>
 Includes:
 * Vehicle functions
 * Time handling
@@ -8,5 +8,5 @@ Includes:
 
 ## About
 I wasn't really aiming to publish this collection, but maybe someone finds this useful some day.
-Thus is there no awesome documentation.
+Thus there's no awesome documentation.
 Just take a look inside each file. Comments are made for everyone to understand what each function does.
