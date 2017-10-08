@@ -1,6 +1,6 @@
 # lazypawn
 Just a self-made collection of also self-made include files that helped me through the times of scripting.<br>
-Includes:
+Lazypawn includes (no pun intended):
 * Vehicle functions
 * Time handling
 * Player handling
